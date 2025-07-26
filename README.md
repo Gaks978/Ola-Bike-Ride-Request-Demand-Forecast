@@ -14,10 +14,15 @@ Raw Data contains a number (unique for every user), ride request DateTime (IST t
 Data Fields
 
 a) number: unique id for every user
+
 b) ts: DateTime of booking ride (IST time)
+
 c) pick_lat: ride request pickup latitude
+
 d) pick_lng: ride request pickup longitude
+
 e) drop_lat: ride request drop latitude
+
 f) drop_lng: ride request drop longitude
 
 Defining a Good Ride Request
